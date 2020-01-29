@@ -6,3 +6,5 @@ A solution for personal data classification at the object storage level using co
 An unpublished whitepaper, presented at IEEE Cloud Computing in Emerging Markets 2018. 
 <br>
 Technologies used : Openstack Swift for object storage, Python for NLP (Scikit Learn, Keras, Spacy).
+<br>
+For further details please feel free to contact my gmail account at nsontakke004.
